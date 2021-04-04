@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "404156503956",
+    "project_id": "cardinfofinder-db4d1",
+    "storage_bucket": "cardinfofinder-db4d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404156503956:android:5b581664e35662aa49a181",
+        "android_client_info": {
+          "package_name": "com.tochukwu.cardinfofinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404156503956-shsd5qqbeummpb95vp8ovkl92al03lnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLhKZR2UetySrXyzt8GbWFsR47TlBxZ9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404156503956-shsd5qqbeummpb95vp8ovkl92al03lnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

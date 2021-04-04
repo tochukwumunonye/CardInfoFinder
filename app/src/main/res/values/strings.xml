@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CardInfoFinder</string>
+    <string name="welcome_text">Hi &#x1F44B;, please select a method to get your card number</string>
+    <string name="input_card_no">Input card number below &#128071;</string>
+    <string name="card_number">Card Number</string>
+    <string name="search">Search</string>
+    <string name="scan">Scan</string>
+    <string name="error_message">It seems the card number is invalid, \n Please go back and retry. Ensure it is between 6-8 digits. \n Preferably type in the card number.</string>
+
+</resources>
